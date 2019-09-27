@@ -8,5 +8,8 @@ public class Test {
 	public void display() {
 		System.out.println("this is dummy method");
 	}
+	public void jjjj() {
+			System.out.println("this is dummy method");
+		}
 	
 }
